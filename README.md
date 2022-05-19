@@ -12,6 +12,10 @@
  
  ## Installation.
  
+ 1. Fork repository.
+ 2. Open in Xcode 13 or later.
+ 3. Remove placeholders and add wanted contant.
+ 
  ## How to use.
 
 
