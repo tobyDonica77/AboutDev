@@ -10,6 +10,8 @@
  
  AboutDev is a small Swift playground application that is a developer profile. The app displays a developer picture or logo, developers name, bio, life events or accomplishments, and a quote. It is design for Ipad pro, modification is requaired for different size screens. Fork project and customize to your self, modifiy and show your creativeness.
  
+ <img src="assets/SimulatorScreen1.png" width="350"> <img src="assets/SimulatorScreen2.png" width="350"> <img src="assets/SimulatorScreen3.png" width="350"> <img src="assets/SimulatorScreen4.png" width="350">
+ 
  ## Installation.
  
  1. Fork repository.
